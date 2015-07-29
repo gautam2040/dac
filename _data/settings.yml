@@ -1,0 +1,49 @@
+works:
+- {id: 'portfolioModal1', url: '/dac-portfolio/img/bannerads/1-msn-banner-ads-for-google-adwords-campaign.jpg', title: 'msn banner ads for google adwords campaign'}
+- {id: 'portfolioModal2', url: 'http://dacpix.com/dac-portfolio/img/bannerads/2-msn-banner-ads-for-google-adwords-campaign.jpg', title: 'msn banner ads for google adwords campaign'}
+- {id: 'portfolioModal3', url: 'http://dacpix.com/dac-portfolio/img/bannerads/3-msn-banner-ads-for-google-adwords-campaign.jpg', title: 'msn banner ads for google adwords campaign'}
+- {id: 'portfolioModal4', url: 'http://dacpix.com/dac-portfolio/img/bannerads/4-msn-banner-ads-for-google-adwords-campaign.jpg', title: 'msn banner ads for google adwords campaign'}
+- {id: 'portfolioModal5', url: 'http://dacpix.com/dac-portfolio/img/bannerads/5-msn-banner-ads-for-google-adwords-campaign.jpg', title: 'msn banner ads for google adwords campaign'}
+- {id: 'portfolioModal6', url: 'http://dacpix.com/dac-portfolio/img/bannerads/6-msn-banner-ads-for-google-adwords-campaign.jpg', title: 'msn banner ads for google adwords campaign'}
+- {id: 'portfolioModal7', url: 'http://dacpix.com/dac-portfolio/img/bannerads/7-msn-banner-ads-for-google-adwords-campaign.jpg', title: 'msn banner ads for google adwords campaign'}
+- {id: 'portfolioModal8', url: 'http://dacpix.com/dac-portfolio/img/bannerads/8-banner-ads-for-google-adwords-campaign.jpg', title: 'banner ads for google adwords campaign'}
+- {id: 'portfolioModal9', url: 'http://dacpix.com/dac-portfolio/img/bannerads/9-banner-ads-for-google-adwords-campaign.jpg', title: 'banner ads for google adwords campaign'}
+- {id: 'portfolioModal10', url: 'http://dacpix.com/dac-portfolio/img/bannerads/10-banner-ads-for-google-adwords-campaign.jpg', title: 'banner ads for google adwords campaign'}
+- {id: 'portfolioModal11', url: 'http://dacpix.com/dac-portfolio/img/bannerads/11-banner-ads-for-google-adwords-campaign.jpg', title: 'banner ads for google adwords campaign'}
+- {id: 'portfolioModal12', url: 'http://dacpix.com/dac-portfolio/img/bannerads/12-msn-banner-ads-for-google-adwords-campaign.jpg', title: 'msn banner ads for google adwords campaign'}
+- {id: 'portfolioModal13', url: 'http://dacpix.com/dac-portfolio/img/bannerads/13-banner-ads-for-google-adwords-campaign.jpg', title: 'banner ads for google adwords campaign'}
+- {id: 'portfolioModal14', url: 'http://dacpix.com/dac-portfolio/img/bannerads/14-banner-ads-for-google-adwords-campaign.jpg', title: 'banner ads for google adwords campaign'}
+- {id: 'portfolioModal15', url: 'http://dacpix.com/dac-portfolio/img/bannerads/15-banner-ads-for-google-adwords-campaign.jpg', title: 'banner ads for google adwords campaign'}
+# adpath: img/bannerads/
+# path: img/bannerdesigns/
+# blurb: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+workstwo:
+- {id: 'portfolioModal1', url: '1-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal2', url: '2-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal3', url: '3-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal4', url: '4-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal5', url: '5-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal6', url: '6-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal7', url: '7-christmas-banner-designs-ads-promo.jpg', title: 'christmas banner designs ads promo'}
+- {id: 'portfolioModal8', url: '8-easter-banner-designs-ads-promo.jpg', title: 'easter banner designs ads promo'}
+- {id: 'portfolioModal9', url: '9-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal10', url: '10-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal11', url: '11-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal12', url: '12-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal13', url: '13-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal14', url: '14-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal15', url: '15-banner-designs-for-website.jpg', title: 'banner designs for website'}
+- {id: 'portfolioModal16', url: '16-valentines-day-banner-designs-for-website.jpg', title: 'valentines day banner designs for website'}
+- {id: 'portfolioModal17', url: '17-fathers-day-banner-designs-for-website.jpg', title: 'fathers day banner designs for website'}
+- {id: 'portfolioModal18', url: '18-mothers-day-banner-designs-for-website.jpg', title: 'mothers day banner designs for website'}
+- {id: 'portfolioModal19', url: '19-christmas-banner-designs-ads-promo.jpg', title: 'christmas banner designs ads promo'}
+- {id: 'portfolioModal20', url: '20-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal21', url: '21-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal22', url: '22-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal23', url: '23-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal24', url: '24-book-icon-designs-ads-promo.jpg', title: 'book icon designs ads promo'}
+- {id: 'portfolioModal25', url: '25-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal26', url: '26-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal27', url: '27-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal28', url: '28-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
+- {id: 'portfolioModal29', url: '29-banner-designs-ads-promo.jpg', title: 'banner designs ads promo'}
